@@ -95,7 +95,7 @@ The agent uses **Gemini 2.0 Flash** for inference and the `summarize_tool` (a cu
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/adk-gemini-cloudrun-agent.git
+git clone https://github.com/ritesh-2124/adk-gemini-cloudrun-agent.git
 cd adk-gemini-cloudrun-agent
 ```
 
